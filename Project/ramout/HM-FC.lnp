@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+".\ramout\startup_stm32f10x_md.o"
+".\ramout\main.o"
+".\ramout\stm32f10x_it.o"
+".\ramout\gpio.o"
+".\ramout\rcc.o"
+".\ramout\usart.o"
+".\ramout\tim.o"
+".\ramout\mpu6050.o"
+".\ramout\sys.o"
+".\ramout\ioi2c.o"
+".\ramout\oled.o"
+".\ramout\stm32f10x_flash.o"
+".\ramout\stm32f10x_gpio.o"
+".\ramout\stm32f10x_rcc.o"
+".\ramout\stm32f10x_usart.o"
+".\ramout\stm32f10x_tim.o"
+".\ramout\misc.o"
+".\ramout\pid.o"
+--strict --scatter ".\ramout\HM-FC.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\ramout\HM-FC.map" -o .\ramout\HM-FC.axf

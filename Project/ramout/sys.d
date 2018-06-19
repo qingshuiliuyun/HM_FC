@@ -1,0 +1,17 @@
+.\ramout\sys.o: ..\Hardware\src\sys.c
+.\ramout\sys.o: ..\Hardware\inc\sys.h
+.\ramout\sys.o: d:\Keil_v5\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\ramout\sys.o: d:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\ramout\sys.o: d:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\ramout\sys.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\ramout\sys.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\ramout\sys.o: d:\Keil_v5\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\ramout\sys.o: ..\Library\inc\stm32f10x_conf.h
+.\ramout\sys.o: ..\Library\inc\stm32f10x_flash.h
+.\ramout\sys.o: d:\Keil_v5\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\ramout\sys.o: ..\Library\inc\stm32f10x_gpio.h
+.\ramout\sys.o: ..\Library\inc\stm32f10x_i2c.h
+.\ramout\sys.o: ..\Library\inc\stm32f10x_rcc.h
+.\ramout\sys.o: ..\Library\inc\stm32f10x_tim.h
+.\ramout\sys.o: ..\Library\inc\stm32f10x_usart.h
+.\ramout\sys.o: ..\Library\inc\misc.h

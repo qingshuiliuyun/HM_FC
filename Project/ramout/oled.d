@@ -1,0 +1,17 @@
+.\ramout\oled.o: ..\Hardware\src\OLED.c
+.\ramout\oled.o: ..\Hardware\inc\OLED.h
+.\ramout\oled.o: ..\Library\inc\stm32f10x_conf.h
+.\ramout\oled.o: ..\Library\inc\stm32f10x_flash.h
+.\ramout\oled.o: d:\Keil_v5\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\ramout\oled.o: d:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\ramout\oled.o: d:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\ramout\oled.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\ramout\oled.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\ramout\oled.o: d:\Keil_v5\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\ramout\oled.o: ..\Library\inc\stm32f10x_conf.h
+.\ramout\oled.o: ..\Library\inc\stm32f10x_gpio.h
+.\ramout\oled.o: ..\Library\inc\stm32f10x_i2c.h
+.\ramout\oled.o: ..\Library\inc\stm32f10x_rcc.h
+.\ramout\oled.o: ..\Library\inc\stm32f10x_tim.h
+.\ramout\oled.o: ..\Library\inc\stm32f10x_usart.h
+.\ramout\oled.o: ..\Library\inc\misc.h

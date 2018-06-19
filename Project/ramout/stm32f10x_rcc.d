@@ -1,0 +1,17 @@
+.\ramout\stm32f10x_rcc.o: ..\Library\src\stm32f10x_rcc.c
+.\ramout\stm32f10x_rcc.o: ..\Library\inc\stm32f10x_rcc.h
+.\ramout\stm32f10x_rcc.o: d:\Keil_v5\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\ramout\stm32f10x_rcc.o: d:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\ramout\stm32f10x_rcc.o: d:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\ramout\stm32f10x_rcc.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\ramout\stm32f10x_rcc.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\ramout\stm32f10x_rcc.o: d:\Keil_v5\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+.\ramout\stm32f10x_rcc.o: ..\Library\inc\stm32f10x_conf.h
+.\ramout\stm32f10x_rcc.o: ..\Library\inc\stm32f10x_flash.h
+.\ramout\stm32f10x_rcc.o: d:\Keil_v5\ARM\Inc\ST\STM32F10x\stm32f10x.h
+.\ramout\stm32f10x_rcc.o: ..\Library\inc\stm32f10x_gpio.h
+.\ramout\stm32f10x_rcc.o: ..\Library\inc\stm32f10x_i2c.h
+.\ramout\stm32f10x_rcc.o: ..\Library\inc\stm32f10x_rcc.h
+.\ramout\stm32f10x_rcc.o: ..\Library\inc\stm32f10x_tim.h
+.\ramout\stm32f10x_rcc.o: ..\Library\inc\stm32f10x_usart.h
+.\ramout\stm32f10x_rcc.o: ..\Library\inc\misc.h

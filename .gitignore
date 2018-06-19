@@ -1,0 +1,14 @@
+*.ini
+*.Bak
+*.bak
+*.d
+*.o
+*.__i
+*.crf
+*~
+*.swp
+*.saved_uv4
+*.HM
+*.dep
+*.uvguix.*
+*.uvgui.*

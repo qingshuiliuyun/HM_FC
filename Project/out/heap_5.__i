@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork -I..\Project -I..\Application\inc -I..\Hardware\inc -I..\Software\inc -I..\Model\FixWing -I..\Model\MultiRotor -I..\Library\inc -I..\Library\STM32_USB-FS-Device_Driver\inc -I..\FreeRTOS\inc -I..\FreeRTOS --c99 
+-I D:\Keil\ARM\RV31\INC 
+-I D:\Keil\ARM\CMSIS\Include 
+-I D:\Keil\ARM\Inc\ST\STM32F10x 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -o ".\out\heap_5.o" --omf_browse ".\out\heap_5.crf" --depend ".\out\heap_5.d" "..\FreeRTOS\heap_5.c"

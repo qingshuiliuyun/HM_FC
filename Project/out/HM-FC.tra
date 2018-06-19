@@ -1,0 +1,56 @@
+*** Creating Trace Output File '.\out\HM-FC.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\out\startup_stm32f10x_md.o"'
+### List of Objects: adding '".\out\main.o"'
+### List of Objects: adding '".\out\stm32f10x_it.o"'
+### List of Objects: adding '".\out\gps.o"'
+### List of Objects: adding '".\out\sbus.o"'
+### List of Objects: adding '".\out\tim.o"'
+### List of Objects: adding '".\out\parameter.o"'
+### List of Objects: adding '".\out\rcc.o"'
+### List of Objects: adding '".\out\sys.o"'
+### List of Objects: adding '".\out\led.o"'
+### List of Objects: adding '".\out\usart.o"'
+### List of Objects: adding '".\out\24c02.o"'
+### List of Objects: adding '".\out\i2c.o"'
+### List of Objects: adding '".\out\senser.o"'
+### List of Objects: adding '".\out\adc.o"'
+### List of Objects: adding '".\out\mpxv7002.o"'
+### List of Objects: adding '".\out\ak8975.o"'
+### List of Objects: adding '".\out\hmc5883l.o"'
+### List of Objects: adding '".\out\mpu6050.o"'
+### List of Objects: adding '".\out\ms5611.o"'
+### List of Objects: adding '".\out\stm32f10x_flash.o"'
+### List of Objects: adding '".\out\stm32f10x_gpio.o"'
+### List of Objects: adding '".\out\stm32f10x_rcc.o"'
+### List of Objects: adding '".\out\stm32f10x_usart.o"'
+### List of Objects: adding '".\out\stm32f10x_tim.o"'
+### List of Objects: adding '".\out\misc.o"'
+### List of Objects: adding '".\out\stm32f10x_spi.o"'
+### List of Objects: adding '".\out\stm32f10x_adc.o"'
+### List of Objects: adding '".\out\stm32f10x_i2c.o"'
+### List of Objects: adding '".\out\stm32f10x_dma.o"'
+### List of Objects: adding '".\out\croutine.o"'
+### List of Objects: adding '".\out\list.o"'
+### List of Objects: adding '".\out\port.o"'
+### List of Objects: adding '".\out\queue.o"'
+### List of Objects: adding '".\out\tasks.o"'
+### List of Objects: adding '".\out\timers.o"'
+### List of Objects: adding '".\out\heap_2.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\out\startup_stm32f10x_md.o" ".\out\main.o" ".\out\stm32f10x_it.o" ".\out\gps.o" ".\out\sbus.o" ".\out\tim.o" ".\out\parameter.o" ".\out\rcc.o" ".\out\sys.o" ".\out\led.o" ".\out\usart.o" ".\out\24c02.o" ".\out\i2c.o" ".\out\senser.o" ".\out\adc.o" ".\out\mpxv7002.o" ".\out\ak8975.o" ".\out\hmc5883l.o" ".\out\mpu6050.o" ".\out\ms5611.o" ".\out\stm32f10x_flash.o" ".\out\stm32f10x_gpio.o" ".\out\stm32f10x_rcc.o" ".\out\stm32f10x_usart.o" ".\out\stm32f10x_tim.o" ".\out\misc.o" ".\out\stm32f10x_spi.o" ".\out\stm32f10x_adc.o" ".\out\stm32f10x_i2c.o" ".\out\stm32f10x_dma.o" ".\out\croutine.o" ".\out\list.o" ".\out\port.o" ".\out\queue.o" ".\out\tasks.o" ".\out\timers.o" ".\out\heap_2.o" 
+--library_type=microlib --strict --scatter ".\out\HM-FC.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\out\HM-FC.map" -o .\out\HM-FC.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\out\HM-FC.axf'
+### ADS-LD Command File: '.\out\HM-FC.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\out\HM-FC.lnp', Handle=0x00002F80
+### Writing '.lnp' file
+### ADS-LD Command file '.\out\HM-FC.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

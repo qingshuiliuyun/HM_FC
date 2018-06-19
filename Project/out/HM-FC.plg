@@ -1,0 +1,2155 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Administrator\Desktop\HM_FC\Project\HM-FC.uvproj
+Project File Date:  08/23/2017
+
+<h2>Output:</h2>
+Build target 'FLASH'
+compiling main.c...
+compiling Parameter.c...
+compiling MPXV7002.c...
+compiling ak8975.c...
+compiling HMC5883L.c...
+compiling mpu6050.c...
+linking...
+Program Size: Code=28788 RO-data=732 RW-data=600 ZI-data=2464  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+linking...
+Program Size: Code=28788 RO-data=732 RW-data=600 ZI-data=2464  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling Parameter.c...
+linking...
+Program Size: Code=29148 RO-data=732 RW-data=600 ZI-data=2464  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling GPS.c...
+compiling Parameter.c...
+linking...
+Program Size: Code=29196 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+linking...
+Program Size: Code=29196 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+linking...
+Program Size: Code=29196 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29192 RO-data=736 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29196 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling mpu6050.c...
+compiling croutine.c...
+compiling list.c...
+compiling port.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling heap_5.c...
+linking...
+Program Size: Code=29196 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29216 RO-data=736 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29188 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+linking...
+Program Size: Code=27676 RO-data=732 RW-data=604 ZI-data=2108  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+linking...
+Program Size: Code=29188 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling main.c...
+compiling mpu6050.c...
+compiling croutine.c...
+compiling list.c...
+compiling port.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling heap_5.c...
+linking...
+Program Size: Code=29188 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29216 RO-data=736 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling led.c...
+linking...
+.\out\HM-FC.axf: Error: L6218E: Undefined symbol BaseSetting (referred from main.o).
+.\out\HM-FC.axf: Error: L6218E: Undefined symbol Parameter_SaveOffset (referred from mpxv7002.o).
+Target not created
+Build target 'FLASH'
+compiling main.c...
+linking...
+.\out\HM-FC.axf: Error: L6218E: Undefined symbol Parameter_SaveOffset (referred from mpxv7002.o).
+Target not created
+Build target 'FLASH'
+compiling MPXV7002.c...
+linking...
+.\out\HM-FC.axf: Error: L6218E: Undefined symbol Parameter_SaveOffset (referred from ak8975.o).
+Target not created
+Build target 'FLASH'
+compiling Parameter.c...
+compiling MPXV7002.c...
+linking...
+Program Size: Code=29172 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling mpu6050.c...
+compiling croutine.c...
+compiling list.c...
+compiling port.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling heap_5.c...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+linking...
+Program Size: Code=28072 RO-data=736 RW-data=604 ZI-data=2108  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling Parameter.c...
+compiling MPXV7002.c...
+compiling ak8975.c...
+compiling HMC5883L.c...
+compiling mpu6050.c...
+linking...
+Program Size: Code=28072 RO-data=736 RW-data=604 ZI-data=2108  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling Parameter.c...
+compiling MPXV7002.c...
+compiling ak8975.c...
+compiling HMC5883L.c...
+compiling mpu6050.c...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling Parameter.c...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=2468  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling main.c...
+compiling adc.c...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=2404  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling MPXV7002.c...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=2404  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=2404  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+assembling startup_stm32f10x_md.s...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=3172  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+assembling startup_stm32f10x_md.s...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=3172  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+assembling startup_stm32f10x_md.s...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=4196  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+assembling startup_stm32f10x_md.s...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=4196  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=4196  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+assembling startup_stm32f10x_md.s...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=8292  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling mpu6050.c...
+compiling croutine.c...
+compiling list.c...
+compiling port.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling heap_5.c...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=8292  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling heap_2.c...
+linking...
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32f10x_md.o(STACK).
+.\out\HM-FC.axf: Error: L6407E: Sections of aggregate size 0x1800 bytes could not fit into .ANY selector(s).
+Target not created
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+_____^
+*** error 56: cannot open file
+Build target 'FLASH'
+assembling startup_stm32f10x_md.s...
+linking...
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching gps.o(.bss).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching mpxv7002.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching gps.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching hmc5883l.o(.bss).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching sbus.o(.bss).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching mpu6050.o(.bss).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching ms5611.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching ak8975.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching hmc5883l.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching heap_2.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching stm32f10x_rcc.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching ms5611.o(.bss).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching led.o(.bss).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching mpu6050.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching sbus.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching led.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching errno.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching parameter.o(.data).
+.\out\HM-FC.axf: Error: L6406E: No space in execution regions with .ANY selector matching senser.o(.data).
+.\out\HM-FC.axf: Error: L6407E: Sections of aggregate size 0x6c4 bytes could not fit into .ANY selector(s).
+Target not created
+Build target 'FLASH'
+assembling startup_stm32f10x_md.s...
+linking...
+Program Size: Code=29044 RO-data=732 RW-data=604 ZI-data=19812  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+linking...
+Program Size: Code=29044 RO-data=732 RW-data=604 ZI-data=19812  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling mpu6050.c...
+compiling croutine.c...
+compiling list.c...
+compiling port.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling heap_2.c...
+linking...
+Program Size: Code=29044 RO-data=732 RW-data=604 ZI-data=3428  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling mpu6050.c...
+compiling croutine.c...
+compiling list.c...
+compiling port.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling heap_2.c...
+linking...
+Program Size: Code=29044 RO-data=732 RW-data=604 ZI-data=7524  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling mpu6050.c...
+compiling croutine.c...
+compiling list.c...
+compiling port.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling heap_2.c...
+linking...
+Program Size: Code=29044 RO-data=732 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling main.c...
+compiling mpu6050.c...
+compiling croutine.c...
+compiling list.c...
+compiling port.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling heap_2.c...
+linking...
+Program Size: Code=29044 RO-data=732 RW-data=604 ZI-data=19812  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling heap_5.c...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=2404  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling mpu6050.c...
+compiling croutine.c...
+compiling list.c...
+compiling port.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling heap_5.c...
+linking...
+Program Size: Code=29212 RO-data=732 RW-data=604 ZI-data=2404  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling heap_2.c...
+linking...
+Program Size: Code=29044 RO-data=732 RW-data=604 ZI-data=15716  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling mpu6050.c...
+compiling croutine.c...
+compiling list.c...
+compiling port.c...
+compiling queue.c...
+compiling tasks.c...
+compiling timers.c...
+compiling heap_2.c...
+linking...
+Program Size: Code=29044 RO-data=732 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29048 RO-data=736 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+linking...
+Program Size: Code=29048 RO-data=736 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+linking...
+Program Size: Code=29048 RO-data=736 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+linking...
+Program Size: Code=29192 RO-data=736 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+linking...
+Program Size: Code=29192 RO-data=736 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling 24C02.c...
+linking...
+Program Size: Code=29192 RO-data=736 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29192 RO-data=736 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29220 RO-data=732 RW-data=620 ZI-data=12660  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling 24C02.c...
+linking...
+Program Size: Code=29220 RO-data=732 RW-data=620 ZI-data=12660  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling 24C02.c...
+linking...
+Program Size: Code=29220 RO-data=732 RW-data=620 ZI-data=12660  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29220 RO-data=732 RW-data=620 ZI-data=12660  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+compiling 24C02.c...
+linking...
+Program Size: Code=29220 RO-data=732 RW-data=620 ZI-data=12660  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling 24C02.c...
+linking...
+Program Size: Code=29220 RO-data=732 RW-data=620 ZI-data=12660  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling main.c...
+compiling 24C02.c...
+linking...
+Program Size: Code=29232 RO-data=736 RW-data=620 ZI-data=12660  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29192 RO-data=736 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+linking...
+Program Size: Code=29196 RO-data=732 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+..\Application\src\main.c(145): error:  #20: identifier "n" is undefined
+Target not created
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29240 RO-data=736 RW-data=620 ZI-data=12660  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+linking...
+Program Size: Code=29420 RO-data=732 RW-data=620 ZI-data=12660  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=29376 RO-data=736 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Build target 'FLASH'
+compiling Parameter.c...
+..\Software\src\Parameter.c(866): warning: C4017W: src may be used before being set
+..\Software\src\Parameter.c(372): warning: C4017W: src may be used before being set
+linking...
+Program Size: Code=33628 RO-data=732 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+..\Software\src\Parameter.c(866): warning: C4017W: src may be used before being set
+..\Software\src\Parameter.c(372): warning: C4017W: src may be used before being set
+linking...
+Program Size: Code=33628 RO-data=732 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+..\Software\src\Parameter.c(866): warning: C4017W: src may be used before being set
+..\Software\src\Parameter.c(372): warning: C4017W: src may be used before being set
+linking...
+Program Size: Code=33628 RO-data=732 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+..\Software\src\Parameter.c(866): warning: C4017W: src may be used before being set
+..\Software\src\Parameter.c(372): warning: C4017W: src may be used before being set
+linking...
+Program Size: Code=33632 RO-data=736 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling Parameter.c...
+..\Software\src\Parameter.c(866): warning: C4017W: src may be used before being set
+..\Software\src\Parameter.c(372): warning: C4017W: src may be used before being set
+linking...
+Program Size: Code=33628 RO-data=732 RW-data=604 ZI-data=12644  
+".\out\HM-FC.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'FLASH'
+compiling main.c...
+..\Application\src\main.c(144): error:  #20: identifier "T" is undefined
+..\Application\src\main.c(145): error:  #20: identifier "n" is undefined
+..\Application\src\main.c(146): error:  #20: identifier "R" is undefined
+Target not created
+Build target 'FLASH'
+compiling main.c...
+..\Application\src\main.c(144): error:  #20: identifier "T" is undefined
+..\Application\src\main.c(145): error:  #20: identifier "n" is undefined
+..\Application\src\main.c(146): error:  #20: identifier "R" is undefined
+Target not created
+Build target 'FLASH'
+compiling main.c...
+linking...
+Program Size: Code=33672 RO-data=736 RW-data=620 ZI-data=12660  
+".\out\HM-FC.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\Desktop\\HM_FC\\Project\\out\\HM-FC.axf" 
+Set JLink Project File to "C:\Users\Administrator\Desktop\HM_FC\Project\JLinkSettings.ini"
+* JLink Info: Device "STM32F103C8" selected (64 KB flash, 20 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N : 20090928 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103C8
+VTarget = 3.300V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+***JLink Error: Can not read register 0 (R0) while CPU is running
+***JLink Error: Can not read register 1 (R1) while CPU is running
+***JLink Error: Can not read register 2 (R2) while CPU is running
+***JLink Error: Can not read register 3 (R3) while CPU is running
+***JLink Error: Can not read register 4 (R4) while CPU is running
+***JLink Error: Can not read register 5 (R5) while CPU is running
+***JLink Error: Can not read register 6 (R6) while CPU is running
+Programming Done.
+Verify OK.
+Application running ...
